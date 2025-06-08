@@ -1,0 +1,13 @@
+b = 4
+ans = 1 % b
+print(1 ,"%",b,"=",ans)
+ans = 2 % b
+print(2,"%",b,"=",ans)
+ans = 3 % b
+print(3,"%",b,"=",ans)
+ans = 4 % b
+print(4,"%",b,"=",ans)
+ans = 5 % b
+print(5,"%",b,"=",ans)
+ans = 6 % b
+print(6,"%",b,"=",ans)
