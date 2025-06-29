@@ -1,0 +1,6 @@
+values = input("請輸入一群數字用空白隔開")
+print(values)
+newList = values.split()
+intList =list(map(int,newList))  
+print(intList)
+print(type(intList[0]))
